@@ -1,4 +1,4 @@
-# Stargaze
+# StarGaze
 This is our mobile application where Stargaze is a "memory collector". The users can make all forms of memories, such as audio recordings, pictures, music(from their linked music streaming platform), videos, or journal entries, and can open them anytime. Users can also make future events through their linked calendar services to add to their memories later. 
 
 Prototype Link: 
